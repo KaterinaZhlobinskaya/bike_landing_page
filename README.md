@@ -47,3 +47,54 @@
 - Налаштовувати адаптивність сторінок для різних пристроїв.
 - Додавати інтерактивні ефекти для покращення користувацького досвіду.
 
+##
+
+# Landing Page
+
+This is my first pet project - a responsive landing page, created using HTML and CSS using the BEM methodology.
+
+## 📖 About the project
+
+The landing page is designed to present the company's offered services and products, focusing on user convenience and attractive design.
+
+## 🔧 Technologies used
+
+- **HTML5**: to create a semantic structure of the page.
+- **CSS3**: to style components and create a responsive design.
+- **BEM (Block-Element-Modifier) ​​methodology**: to organize the code into a clear and scalable structure.
+- **Flexbox and Grid Layout**: to build an adaptive page layout.
+- **Git and GitHub Pages**: to control versions and publish the project.
+
+## 📂 Project structure
+
+The code is organized according to the BEM methodology, which provides a logical division into blocks, elements, and modifiers. Main sections of the landing page:
+
+1. **Header**: includes the logo and navigation menu.
+2. **Hero Section**: a welcome block with the main title and a call to action button.
+3. **About Section**: a block with a description of the product or service.
+4. **Features Section**: a section with key benefits.
+5. **Gallery Section**: a visual block with images.
+6. **Contact Section**: a form for user feedback.
+7. **Footer**: a footer with social media links and copyright information.
+
+## ✨ Features
+
+- **Hover effects**:
+- Buttons and links change their appearance on hover, which improves interactivity.
+- Images in the gallery have zoom effects.
+- **Responsiveness**: The layout adapts to different screen sizes (desktops, tablets, mobile devices).
+- **Semantic HTML**: Increases accessibility and SEO optimization.
+- **Clean and understandable code**: Organized according to the BEM methodology, which makes it easier to read and maintain.
+
+## 🚀 How to view the project
+
+The project is available online at: [Landing Page](https://katerinazhlobinskaya.github.io/bike_landing_page/#)
+
+## 🛠 In development
+
+While working on this project, I learned:
+- Work with the BEM methodology to organize CSS code.
+- Use Flexbox and CSS Grid to build layouts.
+- Configure page responsiveness for different devices.
+- Add interactive effects to improve the user experience.
+
