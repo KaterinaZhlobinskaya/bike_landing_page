@@ -18,13 +18,13 @@
 
 Код організований відповідно до методології БЕМ, що забезпечує логічний поділ на блоки, елементи та модифікатори. Основні секції лендінгу:
 
-1. **Header**: включає логотип та меню навігації.
-2. **Hero Section**: привітальний блок із головним заголовком та кнопкою заклику до дії.
-3. **About Section**: блок з описом продукту або послуги.
-4. **Features Section**: секція з ключовими перевагами.
-5. **Gallery Section**: візуальний блок із зображеннями.
-6. **Contact Section**: форма для зворотного зв’язку з користувачами.
-7. **Footer**: нижній колонтитул із посиланнями на соцмережі та інформацією про авторські права.
+- **Header**: включає логотип та меню навігації.
+- **Hero Section**: привітальний блок із головним заголовком та кнопкою заклику до дії.
+- **About Section**: блок з описом продукту або послуги.
+- **Features Section**: секція з ключовими перевагами.
+- **Gallery Section**: візуальний блок із зображеннями.
+- **Contact Section**: форма для зворотного зв’язку з користувачами.
+- **Footer**: нижній колонтитул із посиланнями на соцмережі та інформацією про авторські права.
 
 ## ✨ Особливості
 
@@ -41,19 +41,19 @@
 
 ## 🛠 Як запустити локально
 
-1. **Клонуйте репозиторій**:
+- **Клонуйте репозиторій**:
      git clone https://github.com/katerinazhlobinskaya/layout_landing-page.git
-2. **Відкрийте проєкт в редакторі коду** (приклад для VSC):
+- **Відкрийте проєкт в редакторі коду** (приклад для VSC):
      code layout_landing-page
-3. **Перевірте версію ноди** (14.14.35 або вище):
+- **Перевірте версію ноди** (14.14.35 або вище):
      node -v
-   1) якщо версія не підходить до вимог, змініть її:
+   - якщо версія не підходить до вимог, змініть її:
      nvm use XX.X.X
-   2) за відсутності встановленої Node встановіть її згідно інструкцій за посиланням:
+   - за відсутності встановленої Node встановіть її згідно інструкцій за посиланням:
      https://nodejs.org/uk/download
-4. **Встановіть залежності** (введіть наступну команду в терміналі редактора коду):
+- **Встановіть залежності** (введіть наступну команду в терміналі редактора коду):
      npm install
-5. **Запустіть проєкт**:
+- **Запустіть проєкт**:
      npm start
 
 ## 🛠 В процесі розробки
@@ -86,13 +86,13 @@ The landing page is designed to present the company's offered services and produ
 
 The code is organized according to the BEM methodology, which provides a logical division into blocks, elements, and modifiers. Main sections of the landing page:
 
-1. **Header**: includes the logo and navigation menu.
-2. **Hero Section**: a welcome block with the main title and a call to action button.
-3. **About Section**: a block with a description of the product or service.
-4. **Features Section**: a section with key benefits.
-5. **Gallery Section**: a visual block with images.
-6. **Contact Section**: a form for user feedback.
-7. **Footer**: a footer with social media links and copyright information.
+- **Header**: includes the logo and navigation menu.
+- **Hero Section**: a welcome block with the main title and a call to action button.
+- **About Section**: a block with a description of the product or service.
+- **Features Section**: a section with key benefits.
+- **Gallery Section**: a visual block with images.
+- **Contact Section**: a form for user feedback.
+- **Footer**: a footer with social media links and copyright information.
 
 ## ✨ Features
 
@@ -109,19 +109,19 @@ The project is available online at: [Landing Page](https://katerinazhlobinskaya.
 
 ## 🛠 How to run locally
 
-1. **Clone the repository**:
+- **Clone the repository**:
      git clone https://github.com/katerinazhlobinskaya/layout_landing-page.git
-2. **Open the project in the code editor** (example for VSC):
+- **Open the project in the code editor** (example for VSC):
      code layout_landing-page
-3. **Check the node version** (14.14.35 or higher):
+- **Check the node version** (14.14.35 or higher):
      node -v
-   1) if the version does not meet the requirements, change it:
+   - if the version does not meet the requirements, change it:
      nvm use XX.X.X
-   2) if Node is not installed, install it according to the instructions at the link:
+   - if Node is not installed, install it according to the instructions at the link:
      https://nodejs.org/uk/download
-4. **Install dependencies** (enter the following command in the code editor terminal):
+- **Install dependencies** (enter the following command in the code editor terminal):
      npm install
-5. **Run the project**:
+- **Run the project**:
      npm start
 
 ## 🛠 In development
