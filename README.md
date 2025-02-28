@@ -39,6 +39,23 @@
 
 Проєкт доступний онлайн за посиланням: [Landing Page](https://katerinazhlobinskaya.github.io/bike_landing_page/#)
 
+## 🛠 Як запустити локально
+
+1. **Клонуйте репозиторій**:
+     git clone https://github.com/katerinazhlobinskaya/layout_landing-page.git
+2. **Відкрийте проєкт в редакторі коду** (приклад для VSC):
+     code layout_landing-page
+3. **Перевірте версію ноди** (14.14.35 або вище):
+     node -v
+   1) якщо версія не підходить до вимог, змініть її:
+     nvm use XX.X.X
+   2) за відсутності встановленої Node встановіть її згідно інструкцій за посиланням:
+     https://nodejs.org/uk/download
+4. **Встановіть залежності** (введіть наступну команду в терміналі редактора коду):
+     npm install
+5. **Запустіть проєкт**:
+     npm start
+
 ## 🛠 В процесі розробки
 
 Під час роботи над цим проєктом я навчилася:
@@ -89,6 +106,23 @@ The code is organized according to the BEM methodology, which provides a logical
 ## 🚀 How to view the project
 
 The project is available online at: [Landing Page](https://katerinazhlobinskaya.github.io/bike_landing_page/#)
+
+## 🛠 How to run locally
+
+1. **Clone the repository**:
+     git clone https://github.com/katerinazhlobinskaya/layout_landing-page.git
+2. **Open the project in the code editor** (example for VSC):
+     code layout_landing-page
+3. **Check the node version** (14.14.35 or higher):
+     node -v
+   1) if the version does not meet the requirements, change it:
+     nvm use XX.X.X
+   2) if Node is not installed, install it according to the instructions at the link:
+     https://nodejs.org/uk/download
+4. **Install dependencies** (enter the following command in the code editor terminal):
+     npm install
+5. **Run the project**:
+     npm start
 
 ## 🛠 In development
 
