@@ -42,18 +42,25 @@
 ## 🛠 Як запустити локально
 
 - **Клонуйте репозиторій**:
+     ```sh
      git clone https://github.com/katerinazhlobinskaya/layout_landing-page.git
 - **Відкрийте проєкт в редакторі коду** (приклад для VSC):
+     ```sh
      code layout_landing-page
 - **Перевірте версію ноди** (14.14.35 або вище):
-     node -v
+  
+       node -v
    - якщо версія не підходить до вимог, змініть її:
-     nvm use XX.X.X
+       ```sh
+       nvm use XX.X.X
    - за відсутності встановленої Node встановіть її згідно інструкцій за посиланням:
-     https://nodejs.org/uk/download
+       ```sh
+       https://nodejs.org/uk/download
 - **Встановіть залежності** (введіть наступну команду в терміналі редактора коду):
+     ```sh
      npm install
 - **Запустіть проєкт**:
+     ```sh
      npm start
 
 ## 🛠 В процесі розробки
@@ -110,18 +117,25 @@ The project is available online at: [Landing Page](https://katerinazhlobinskaya.
 ## 🛠 How to run locally
 
 - **Clone the repository**:
+     ```sh
      git clone https://github.com/katerinazhlobinskaya/layout_landing-page.git
 - **Open the project in the code editor** (example for VSC):
+     ```sh
      code layout_landing-page
 - **Check the node version** (14.14.35 or higher):
-     node -v
+   
+         node -v
    - if the version does not meet the requirements, change it:
-     nvm use XX.X.X
+       ```sh
+       nvm use XX.X.X
    - if Node is not installed, install it according to the instructions at the link:
-     https://nodejs.org/uk/download
+       ```sh
+       https://nodejs.org/uk/download
 - **Install dependencies** (enter the following command in the code editor terminal):
+     ```sh
      npm install
 - **Run the project**:
+     ```sh
      npm start
 
 ## 🛠 In development
